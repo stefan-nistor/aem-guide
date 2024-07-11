@@ -13,7 +13,9 @@
                         jcr:title="Content Form"
                         sling:resourceType="wcm/core/components/policy/policy"
                         components="[/apps/wknd/components/form/button,/apps/wknd/components/form/hidden,/apps/wknd/components/form/options,/apps/wknd/components/form/text]">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <jcr:content
+                            jcr:mixinTypes="[]"
+                            jcr:primaryType="nt:unstructured"/>
                     </form-container>
                 </container>
             </form>

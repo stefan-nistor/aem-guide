@@ -5,12 +5,12 @@
     jcr:uuid="adacdb1b-a6d7-4f4b-aaee-72541d81bcd2">
     <jcr:content
         dam:assetState="processed"
-        jcr:lastModified="{Date}2022-02-23T09:12:09.884-08:00"
+        jcr:lastModified="{Date}2024-07-10T11:49:10.737+03:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2022-02-23T09:12:09.089-08:00"
+            dam:extracted="{Date}2024-07-10T11:49:10.567+03:00"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -32,13 +32,13 @@
             tiff:ImageWidth="{Long}1280"/>
         <related jcr:primaryType="nt:unstructured"/>
         <usages
-            dam:score="{Long}3"
+            dam:score="{Long}4"
             jcr:primaryType="nt:unstructured"
             usedBy="[aem]">
             <aem
                 jcr:primaryType="nt:unstructured"
-                count="{Long}3"
-                lastUsed="{Date}2022-02-23T09:36:09.782-08:00"/>
+                count="{Long}4"
+                lastUsed="{Date}2024-07-11T15:12:27.470+03:00"/>
         </usages>
     </jcr:content>
 </jcr:root>

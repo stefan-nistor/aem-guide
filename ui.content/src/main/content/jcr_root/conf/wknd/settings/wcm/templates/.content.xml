@@ -8,4 +8,5 @@
     <xf-web-variation/>
     <rep:policy/>
     <article-page/>
+    <my-very-custom-article-page-template/>
 </jcr:root>

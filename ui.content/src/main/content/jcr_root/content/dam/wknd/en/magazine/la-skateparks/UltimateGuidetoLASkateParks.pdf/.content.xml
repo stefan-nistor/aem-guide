@@ -5,11 +5,11 @@
     jcr:uuid="d296fa90-25e4-4d25-80d1-4e445c46b6e2">
     <jcr:content
         dam:assetState="processed"
-        jcr:lastModified="{Date}2022-02-23T09:12:10.094-08:00"
+        jcr:lastModified="{Date}2024-07-10T11:49:10.728+03:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
-            dam:extracted="{Date}2022-02-23T09:12:08.732-08:00"
+            dam:extracted="{Date}2024-07-10T11:49:10.464+03:00"
             dam:numPages="{Long}2"
             dam:Physicalheightininches="{Decimal}11.0"
             dam:Physicalwidthininches="{Decimal}8.5"
@@ -23,10 +23,10 @@
             jcr:primaryType="nt:unstructured"
             jcr:title="Ultimate Guide To LA Skateparks PDF"
             pdf:Producer="macOS Version 10.14.5 (Build 18F132) Quartz PDFContext"
-            xmp:CreateDate="{Date}2019-10-14T15:10:46.000-07:00"
+            xmp:CreateDate="{Date}2019-10-15T01:10:46.000+03:00"
             xmp:CreatorTool="Word"
             xmp:MetadataDate="{Date}2019-11-07T03:06:09.000Z"
-            xmp:ModifyDate="{Date}2019-11-06T19:06:09.000-08:00"/>
+            xmp:ModifyDate="{Date}2019-11-07T05:06:09.000+02:00"/>
         <related jcr:primaryType="nt:unstructured"/>
         <usages
             dam:score="{Long}2"
