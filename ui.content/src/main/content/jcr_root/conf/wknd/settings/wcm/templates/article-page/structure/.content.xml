@@ -5,7 +5,7 @@
         cq:deviceGroups="[mobile/groups/responsive]"
         cq:lastModified="{Date}2022-02-23T09:06:07.878-08:00"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/wknd/settings/wcm/templates/article-page"
+        cq:template="/conf/wknd/settings/wcm/templates/articleModel-page"
         jcr:primaryType="cq:PageContent"
         sling:resourceType="wknd/components/page">
         <root

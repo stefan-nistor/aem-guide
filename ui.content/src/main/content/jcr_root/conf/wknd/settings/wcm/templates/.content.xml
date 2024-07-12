@@ -7,6 +7,6 @@
     <page-content/>
     <xf-web-variation/>
     <rep:policy/>
-    <article-page/>
-    <my-very-custom-article-page-template/>
+    <articleModel-page/>
+    <my-very-custom-articleModel-page-template/>
 </jcr:root>

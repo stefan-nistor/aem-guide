@@ -19,7 +19,7 @@
                     sling:resourceType="granite/ui/components/coral/foundation/tabs"
                     size="L">
                 <items jcr:primaryType="nt:unstructured">
-                    <article
+                    <articleModel
                             cq:showOnCreate="{Boolean}true"
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Article Dialog"
@@ -54,7 +54,7 @@
                                 </items>
                             </column>
                         </items>
-                    </article>
+                    </articleModel>
                 </items>
             </tabs>
         </items>

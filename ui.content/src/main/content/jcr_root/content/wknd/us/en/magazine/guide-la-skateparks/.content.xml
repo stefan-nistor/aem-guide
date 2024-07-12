@@ -4,7 +4,7 @@
     <jcr:content
         cq:lastModified="{Date}2024-07-10T16:55:33.038+03:00"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/wknd/settings/wcm/templates/article-page"
+        cq:template="/conf/wknd/settings/wcm/templates/articleModel-page"
         jcr:mixinTypes="[]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Ultimate Guide to LA Skateparks"

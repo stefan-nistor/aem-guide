@@ -4,7 +4,7 @@
     <jcr:content
         cq:lastModified="{Date}2022-02-23T09:41:01.086-08:00"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/wknd/settings/wcm/templates/article-page"
+        cq:template="/conf/wknd/settings/wcm/templates/articleModel-page"
         jcr:mixinTypes="[]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Western Australia"
